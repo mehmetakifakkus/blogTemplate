@@ -6,7 +6,3 @@ permalink: /blog/:year/:month/:day/:title
 syntax_highlighter: rouge
 
 gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
-
-redirect_win: {{site.baseurl}}
-redirect_mac: {{site.baseurl}}
-redirect_linux: {{site.baseurl}}
